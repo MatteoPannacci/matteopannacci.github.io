@@ -9,7 +9,7 @@ version: 2
 name: Matteo Pannacci
 title: Master's Student in Artificial Intelligence and Robotics at Sapienza Università di Roma
 email: matteo.pannacci@gmail.com
-# website: matteopannacci.github.io
+website: matteopannacci.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -28,6 +28,7 @@ linkedin_username: matteo-pannacci
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 orcid_username: 0009-0002-8426-7329
+googlescholar_username: _VlMoTYAAAAJ
 
 # Additional icon links
 additional_links:
@@ -53,7 +54,10 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
-  # Education
+  #############
+  # Education #
+  #############
+
   - title: Education
     layout: list
     content:
@@ -85,7 +89,10 @@ content:
           Grade: 100 / 100 cum laude
 
 
-  # Publications
+  ################
+  # Publications #
+  ################
+
   - title: Publications
     layout: text
     content: |
@@ -106,25 +113,40 @@ content:
 #          This project ...
 
 
-#  # Projects
-#  - title: Projects
-#    layout: list 
-#    content:
-#      - layout: top-middle
-#        title: Super awesome project
-#        link: github.com/sproogen
-#        # link_text: Project Website
-#        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: github.com/sproogen/modern-resume-theme
-#          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#          #   icon: fab fa-github
-#          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#        description: | # this will include new lines to allow paragraphs
-#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+############
+# Projects #
+############
+
+  - title: Projects
+    layout: list
+    content:
+
+      # machiavelli-planning
+      - layout: left
+        title: Machiavelli Planning
+        sub_title: January 2025
+        link: github.com/MatteoPannacci/machiavelli-planning
+        link_text: Github repository
+        description: |
+          ...
+
+      # rdfs-in-neo4j
+      - layout: left
+        title: RDFS in Neo4J
+        sub_title: May 2024
+        link: github.com/MatteoPannacci/rdfs-in-neo4j
+        link_text: Github repository
+        description: |
+          ...
+
+      # rp-simple-planner
+      - layout: left
+        title: Yao's Garbled Circuits
+        sub_title: September 2024
+        link: github.com/MatteoPannacci/rp-simple-planner
+        link_text: Github repository
+        description: |
+          ...
 
 
 #  - title: Experience # Title for the section
@@ -140,9 +162,6 @@ content:
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
 #        description: | # this will include new lines to allow paragraphs
 #            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-
-
 
 
 #  - title: A Little More About Me
