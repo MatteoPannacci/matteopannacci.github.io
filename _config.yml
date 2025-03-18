@@ -139,7 +139,7 @@ content:
         link: github.com/MatteoPannacci/rp-simple-planner
         link_text: Github repository
         description: |
-          Implementation of a simple 2D trajectory planner for ROS in C++. The code provides a node that listens to the required informations (current position, map structure and goal position), then it uses these informations to build the trajectory planning problem from those and solves it applying A*. The resulting path is then visualized using OpenCV.
+          Implementation of a simple 2D trajectory planner for ROS in C++. The code provides a node that listens to the required informations (current position, map structure and goal position), then it uses these informations to build the trajectory planning problem and solves it applying the A* algorithm. The resulting path is then visualized using OpenCV.
 
 
 #  - title: Experience # Title for the section
