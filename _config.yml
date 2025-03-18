@@ -70,6 +70,8 @@ content:
         sub_title: Sapienza Università di Roma
         description: |
           GPA: 30/30
+
+          ---
           
           Currently enrolled as a second year student following the Honours' Programme.
 
@@ -84,6 +86,8 @@ content:
 
           ---
 
+          ...
+
       # high school
       - layout: left
         title: High School Diploma, Liceo Scientifico Tradizionale
@@ -93,6 +97,8 @@ content:
           Grade: 100 / 100 cum laude
 
           ---
+
+          ...
 
 
   ################
