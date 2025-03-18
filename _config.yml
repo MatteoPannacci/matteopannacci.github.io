@@ -60,12 +60,11 @@ content:
 
       # master's degree
       - layout: left
-        title: M.Sc. Artificial Intelligence and Robotics
+        title: M.Sc. AI and Robotics
         caption: 2023 - 2025
         sub_title: Sapienza Università di Roma
         description: |
-          GPA: 30/30
-          Currently enrolled as a second year student following the Honours' Programme.
+          Currently enrolled as a second year student following the Honours' Programme. GPA: 30/30
 
       # bachelor's degree
       - layout: left
@@ -86,11 +85,16 @@ content:
 
   # Publications
   - title: Publications
-    layout: text
-    content: |
-      Emanuele Mule<sup>*</sup>, Matteo Pannacci<sup>*</sup>, Ali Ghasemi Goudarzi<sup>*</sup>, Francesco Pro, Lorenzo Papa, Luca Maiano and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation, 2025. <a href="https://arxiv.org/pdf/2502.06288" target="_blank"></a>
-
-      <sup>*</sup>: Equal contribution
+    layout: list
+    content: 
+      - layout: top-middle
+        border: weak
+        title: Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation, 2025.
+        sub_title: Emanuele Mule<sup>*</sup>, Matteo Pannacci<sup>*</sup>, Ali Ghasemi Goudarzi<sup>*</sup>, Francesco Pro, Lorenzo Papa, Luca Maiano and Irene Amerini.
+        link: https://drive.google.com/file/d/1pOdSBJk91zRCHk48kgDDHBs044fJOB1X/view?usp=sharing
+        link_text: Project Report
+        description: |
+          This project ...
 
 
 #  # Projects
