@@ -141,7 +141,7 @@ content:
 
       # rp-simple-planner
       - layout: left
-        title: Yao's Garbled Circuits
+        title: ROS Simple Planner
         sub_title: September 2024
         link: github.com/MatteoPannacci/rp-simple-planner
         link_text: Github repository
