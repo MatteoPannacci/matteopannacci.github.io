@@ -82,6 +82,8 @@ content:
         description: |
           Grade: 110 / 110 cum laude
 
+          ---
+
       # high school
       - layout: left
         title: High School Diploma, Liceo Scientifico Tradizionale
@@ -89,6 +91,8 @@ content:
         sub_title: Liceo Statale Democrito
         description: |
           Grade: 100 / 100 cum laude
+
+          ---
 
 
   ################
