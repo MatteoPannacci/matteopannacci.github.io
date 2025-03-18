@@ -32,9 +32,9 @@ googlescholar_username: _VlMoTYAAAAJ
 
 # Additional icon links
 additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+- title: Kaggle link
+  icon: fab fa-kaggle
+  url: https://www.kaggle.com/matteo-pannacci
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
