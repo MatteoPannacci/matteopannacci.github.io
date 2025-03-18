@@ -140,7 +140,7 @@ content:
         link: github.com/MatteoPannacci/rdfs-in-neo4j
         link_text: Github repository
         description: |
-          Implementation of 2 class structures representing RDFS-based Knowledge Graphs. The first version uses a Neo4J Session to perform updates, syntax check and deduction directly on the graph through queries in Cypher. The second version performs these operations in Python and is able to interact with a Neo4J Session for importing/exporting Knowledge Graphs.
+          Implementation in Python of 2 class structures representing RDFS-based Knowledge Graphs. The first version uses a Neo4J Session to perform updates, syntax check and deduction directly on the graph through queries in Cypher. The second version performs these operations in Python and is able to interact with a Neo4J Session for importing/exporting Knowledge Graphs.
 
       # rp-simple-planner
       - layout: left
