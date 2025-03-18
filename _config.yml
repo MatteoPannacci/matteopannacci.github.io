@@ -64,7 +64,9 @@ content:
         caption: 2023 - 2025
         sub_title: Sapienza Università di Roma
         description: |
-          Currently enrolled as a second year student following the Honours' Programme. GPA: 30/30
+          GPA: 30/30
+          
+          Currently enrolled as a second year student following the Honours' Programme.
 
       # bachelor's degree
       - layout: left
