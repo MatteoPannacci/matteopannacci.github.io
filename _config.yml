@@ -31,6 +31,15 @@ orcid_username: 0009-0002-8426-7329
 googlescholar_username: _VlMoTYAAAAJ
 
 # Additional icon links
+additional_links:
+- title: Kaggle link
+  icon: fab fa-kaggle
+  url: https://www.kaggle.com/matteopannacci
+- title: HuggingFace link
+  icon: far fa-face-smiling-hands
+  url: https://huggingface.co/Matteo-Pannacci
+
+
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
