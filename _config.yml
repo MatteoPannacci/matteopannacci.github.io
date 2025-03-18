@@ -119,7 +119,8 @@ content:
         link: github.com/MatteoPannacci/machiavelli-planning
         link_text: Github repository
         description: |
-          ...
+          Implementation in PDDL and IndiGolog of a planning task from the italian card game Machiavelli. 
+          We take into consideration a single turn of a player during the course of the game. The goal is to check whether it's possible for the player to win from the current configuration (board state and player's hand) and, in the positive case, to find a sequence of legal actions that do so. 
 
       # rdfs-in-neo4j
       - layout: left
@@ -129,7 +130,7 @@ content:
         link: github.com/MatteoPannacci/rdfs-in-neo4j
         link_text: Github repository
         description: |
-          ...
+          Implementation of 2 class structures representing RDFS-based Knowledge Graphs. The first version uses a Neo4J Session to perform updates, syntax check and deduction directly on the graph through queries in Cypher. The second version performs these operations in Python and is able to interact with a Neo4J Session for importing/exporting Knowledge Graphs.
 
       # rp-simple-planner
       - layout: left
@@ -138,7 +139,7 @@ content:
         link: github.com/MatteoPannacci/rp-simple-planner
         link_text: Github repository
         description: |
-          ...
+          Implementation of a simple 2D planner node for ROS in C++.
 
 
 #  - title: Experience # Title for the section
