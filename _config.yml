@@ -32,17 +32,13 @@ googlescholar_username: _VlMoTYAAAAJ
 
 # Additional icon links
 additional_links:
-- title: Kaggle link
-  icon: fab fa-kaggle
-  url: https://www.kaggle.com/matteopannacci
-- title: HuggingFace link
-  icon: far fa-face-smiling-hands
-  url: https://huggingface.co/Matteo-Pannacci
+#- title: Kaggle link
+#  icon: fab fa-kaggle
+#  url: https://www.kaggle.com/matteopannacci
+#- title: HuggingFace link
+#  icon: far fa-face-smiling-hands
+#  url: https://huggingface.co/Matteo-Pannacci
 
-
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
