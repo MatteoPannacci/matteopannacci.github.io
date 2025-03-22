@@ -70,9 +70,13 @@ content:
         caption: 2023 - 2025
         sub_title: Sapienza Università di Roma
         description: |
-          GPA: 30/30
+          Current GPA: 30/30
 
           ---
+          
+          Best Student of the course according to Sapienza "Exam Bonus" Award.
+
+          Recipient of Sapienza "Meritorious Students" Benefits.
           
           Currently enrolled as a second year student following the Honours' Programme.
 
@@ -83,11 +87,11 @@ content:
         caption: 2020 - 2023
         sub_title: Sapienza Università di Roma
         description: |
-          Grade: 110 / 110 cum laude
+          Grade: 110 / 110 cum laude (Final GPA: 29.29/30)
 
           ---
 
-          ...
+          Recipient of Sapienza "Meritorious Students" Benefits.
 
       # high school
       - layout: left
