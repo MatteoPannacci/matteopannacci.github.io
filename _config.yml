@@ -88,7 +88,7 @@ content:
         sub_title: Sapienza Università di Roma
         description: |
           Final Grade: 110 / 110 cum laude
-          
+
           Final GPA: 29.29/30
 
           ---
@@ -105,8 +105,9 @@ content:
 
           ---
 
-          ...
+          Throughout high school, I competed in various student competitions in Math, Physics, Biology, Chemistry, and Computer Science at the school, regional, and national levels, both individually and as a team leader.
 
+          During my fourth year of high school, I was selected for and attended the 'Scuola Estiva Nazionale per Studenti sulla Fisica Moderna 2019' (SENS-FM2019), which took place at the University of Udine.
 
   ################
   # Publications #
@@ -157,6 +158,9 @@ content:
         link_text: Github repository
         description: |
           Implementation of a simple 2D trajectory planner for ROS in C++. The code provides a node that listens to the required informations (current position, map structure and goal position), then it uses these informations to build the trajectory planning problem and solves it applying the A* algorithm. The resulting path is then visualized using OpenCV.
+
+
+
 
 
 #  - title: Experience # Title for the section
