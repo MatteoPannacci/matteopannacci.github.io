@@ -49,11 +49,12 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Work in Progress
 
 
 content:
+
 
   #############
   # Education #
@@ -109,9 +110,10 @@ content:
 
           During my fourth year of high school, I was selected for and attended the "Scuola Estiva Nazionale per Studenti sulla Fisica Moderna 2019" (SENS-FM2019), which took place at the University of Udine.
 
-  ################
-  # Publications #
-  ################
+
+################
+# Publications #
+################
 
   - title: Publications
     layout: text
@@ -196,6 +198,7 @@ content:
 #
 #      Look at this cool image  
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
 
 # Footer
 footer_show_references: true
