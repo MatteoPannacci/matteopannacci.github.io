@@ -134,7 +134,7 @@ content:
         border: weak
         title: Machiavelli Planning
         sub_title: January 2025
-        link: github.com/MatteoPannacci/machiavelli-planning
+        link: https://github.com/MatteoPannacci/machiavelli-planning
         link_text: Github repository
         description: |
           Implementation in PDDL and IndiGolog of a planning task from the italian card game Machiavelli. 
@@ -145,22 +145,29 @@ content:
         border: weak
         title: RDFS in Neo4J
         sub_title: May 2024
-        link: github.com/MatteoPannacci/rdfs-in-neo4j
+        link: https://github.com/MatteoPannacci/rdfs-in-neo4j
         link_text: Github repository
         description: |
           Implementation in Python of 2 class structures representing RDFS-based Knowledge Graphs. The first version uses a Neo4J Session to perform updates, syntax check and deduction directly on the graph through queries in Cypher. The second version performs these operations in Python and is able to interact with a Neo4J Session for importing/exporting Knowledge Graphs.
 
       # rp-simple-planner
       - layout: left
+        border: weak
         title: ROS Simple Planner
         sub_title: September 2024
-        link: github.com/MatteoPannacci/rp-simple-planner
+        link: https://github.com/MatteoPannacci/rp-simple-planner
         link_text: Github repository
         description: |
           Implementation of a simple 2D trajectory planner for ROS in C++. The code provides a node that listens to the required informations (current position, map structure and goal position), then it uses these informations to build the trajectory planning problem and solves it applying the A* algorithm. The resulting path is then visualized using OpenCV.
 
-
-
+      # Multi-Family-Co-Evolutionary-RL
+      - layout: left
+        title: Multi-Family Co-Evolutionary Approach for MARL
+        sub_title: December 2024
+        link: https://github.com/EmaMule/Multi-Family-Co-Evolutionary-RL
+        link_text: Github repository
+        description: |
+          Implementation of ES (Evolutive Strategy) and GA (Genetic Algorithm) using multiple independent populations in the context of Multi-Agent Reinforcement Learning to train neural networks (Neuro-Evolution). The agents learn to play classic games from the PettingZoo library including Connect Four and TicTacToe by having the populations compete against each other.
 
 
 #  - title: Experience # Title for the section
