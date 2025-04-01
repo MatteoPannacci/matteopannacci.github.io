@@ -38,6 +38,9 @@ additional_links:
 #- title: HuggingFace link
 #  icon: far fa-face-smiling-hands
 #  url: https://huggingface.co/Matteo-Pannacci
+- title: ResearchGate link
+  icon: fab fa-researchgate
+  url: https://www.researchgate.net/profile/Matteo-Pannacci
 
 
 # Google Analytics and Tag Manager
