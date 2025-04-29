@@ -167,6 +167,7 @@ content:
 
       # Multi-Family-Co-Evolutionary-RL
       - layout: left
+        border: weak
         title: Multi-Family Co-Evolutionary Approach for MARL
         sub_title: December 2024
         link: https://github.com/EmaMule/Multi-Family-Co-Evolutionary-RL
