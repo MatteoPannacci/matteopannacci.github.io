@@ -174,11 +174,11 @@ content:
         description: |
           Implementation of ES (Evolutive Strategy) and GA (Genetic Algorithm) using multiple independent populations in the context of Multi-Agent Reinforcement Learning to train neural networks (Neuro-Evolution). The agents learn to play classic games from the PettingZoo library including Connect Four and TicTacToe by having the populations compete against each other.
 
-      # FEVER adversarial NLI
+      # fever-nli-augmentation
       - layout: left
-        title: Multi-Family Co-Evolutionary Approach for MARL
-        sub_title: December 2024
-        link: https://github.com/MatteoPannacci/fever-adversarial-nli
+        title: NLI-style FEVER Augmentation
+        sub_title: July 2024
+        link: https://github.com/MatteoPannacci/fever-nli-augmentation
         link_text: Github repository
         description: |
           Implementation of augmentation strategies and trasformer-based models for NLI (Natural Language Inference) on the FEVER dataset. The augmentation strategies are based on WSD (Word Sense Disambiguation) and SRL (Semantic Role Labeling) informations provided with the dataset.
