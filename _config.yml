@@ -128,7 +128,6 @@ content:
       <sup>*</sup>: Equal contribution
 
 
-
 ############
 # Projects #
 ############
@@ -187,6 +186,10 @@ content:
         description: |
           Implementation of augmentation strategies and trasformer-based models for NLI (Natural Language Inference) on the FEVER dataset. The augmentation strategies are based on WSD (Word Sense Disambiguation) and SRL (Semantic Role Labeling) informations provided with the dataset.
 
+
+##############
+# Experience #
+##############
 
   - title: Experience
     layout: list
