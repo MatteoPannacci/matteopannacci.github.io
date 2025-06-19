@@ -123,7 +123,7 @@ content:
   - title: Publications
     layout: text
     content: |
-      [1] Emanuele Mule<sup>*</sup>, Matteo Pannacci<sup>*</sup>, Ali Ghasemi Goudarzi<sup>*</sup>, Francesco Pro, Lorenzo Papa, Luca Maiano and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation. In Proceedings of the Winter Conference on Applications of Computer Vision (WACV) Workshops, pages 795-803, February 2025. (<a href="https://arxiv.org/pdf/2502.06288" style="color: inherit; font-style: italic; font-weight: normal;">article</a>, <a href="https://github.com/MatteoPannacci/SemanticAlignNet-QUAD" style="color: inherit; font-style: italic; font-weight: normal;">repository</a>, <a href="https://matteopannacci.github.io/SemanticAlignNet-QUAD/" style="color: inherit; font-style: italic; font-weight: normal;">website</a>)
+      [1] Emanuele Mule<sup>*</sup>, Matteo Pannacci<sup>*</sup>, Ali Ghasemi Goudarzi<sup>*</sup>, Francesco Pro, Lorenzo Papa, Luca Maiano and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation. In Proceedings of the Winter Conference on Applications of Computer Vision (WACV) Workshops, pages 795-803, February 2025. (<a href="https://arxiv.org/pdf/2502.06288" style="color: inherit; font-style: italic; font-weight: lighter;">article</a>, <a href="https://github.com/MatteoPannacci/SemanticAlignNet-QUAD" style="color: inherit; font-style: italic; font-weight: lighter;">repository</a>, <a href="https://matteopannacci.github.io/SemanticAlignNet-QUAD/" style="color: inherit; font-style: italic; font-weight: lighter;">website</a>)
 
       <sup>*</sup>: Equal contribution
 
