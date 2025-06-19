@@ -138,7 +138,7 @@ content:
       - layout: left
         border: weak
         title: Machiavelli Planning
-        sub_title: January 2025
+        caption: January 2025
         link: https://github.com/MatteoPannacci/machiavelli-planning
         link_text: Github repository
         description: |
@@ -149,7 +149,7 @@ content:
       - layout: left
         border: weak
         title: RDFS in Neo4J
-        sub_title: May 2024
+        caption: May 2024
         link: https://github.com/MatteoPannacci/rdfs-in-neo4j
         link_text: Github repository
         description: |
@@ -159,7 +159,7 @@ content:
       - layout: left
         border: weak
         title: ROS Simple Planner
-        sub_title: September 2024
+        caption: September 2024
         link: https://github.com/MatteoPannacci/rp-simple-planner
         link_text: Github repository
         description: |
@@ -169,7 +169,7 @@ content:
       - layout: left
         border: weak
         title: Multi-Family Co-Evolutionary Approach for MARL
-        sub_title: December 2024
+        caption: December 2024
         link: https://github.com/EmaMule/Multi-Family-Co-Evolutionary-RL
         link_text: Github repository
         description: |
@@ -178,11 +178,22 @@ content:
       # fever-nli-augmentation
       - layout: left
         title: NLI-style FEVER Augmentation
-        sub_title: July 2024
+        caption: July 2024
         link: https://github.com/MatteoPannacci/fever-nli-augmentation
         link_text: Github repository
         description: |
           Implementation of augmentation strategies and trasformer-based models for NLI (Natural Language Inference) on the FEVER dataset. The augmentation strategies are based on WSD (Word Sense Disambiguation) and SRL (Semantic Role Labeling) informations provided with the dataset.
+
+
+  - title: Experience
+    layout: list
+    content:
+
+      - layout: left
+        title: Research Assistant
+        sub_title: Sapienza Università di Roma, ALCOR Lab
+        caption: May 2024 - February 2025
+#        description: |
 
 
 #  - title: Experience # Title for the section
