@@ -214,7 +214,7 @@ content:
         link: https://github.com/MatteoPannacci/noisy-graph-classification
         link_text: Github repository
         description: |
-          Implementation of an ensemble of GINs (Graph Isomorphism Network) with Pytorch Geometric for Graph Classification in presence of noise.
+          Implementation of an ensemble of GINs (Graph Isomorphism Network) using Pytorch Geometric for a Graph Classification task on a Protein-Protein Association (PPA) dataset in presence of noise.
 
 
 #content:
