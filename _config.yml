@@ -200,7 +200,7 @@ content:
       - layout: left
         title: Research Experience
         sub_title: ALCOR Lab, DIAG, Sapienza Università di Roma
-        caption: May 2024 - February 2025
+        caption: June 2024 - February 2025
         description: |
           Research collaboration with the ALCOR Lab at the Department of Computer, Control, and Management Engineering (DIAG) of Sapienza University of Rome, conducted during my master's degree. The work focused on improving ground-to-aerial image matching techniques using semantic segmentation to enhance alignment and comparison of images from different viewpoints.
 
