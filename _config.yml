@@ -118,6 +118,24 @@ content:
           During my fourth year of high school, I was selected for and attended the "Scuola Estiva Nazionale per Studenti sulla Fisica Moderna 2019" (SENS-FM2019), which took place at the University of Udine.
 
 
+##############
+# Experience #
+##############
+
+  - title: Experience
+    layout: list
+    content:
+
+      - layout: left
+        title: Research Experience
+        sub_title: ALCOR Lab, DIAG, Sapienza Università di Roma
+        caption: June 2024 - February 2025
+        description: |
+          Research collaboration with the ALCOR Lab at the Department of Computer, Control, and Management Engineering (DIAG) of Sapienza University of Rome, conducted during my master's degree. The work focused on improving ground-to-aerial image matching techniques using semantic segmentation to enhance alignment and comparison of images from different viewpoints.
+
+          This collaboration led to the publication of the paper "Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation" of which I'm a co-first author.
+
+
 ################
 # Publications #
 ################
@@ -188,24 +206,14 @@ content:
         description: |
           Implementation of augmentation strategies and trasformer-based models for NLI (Natural Language Inference) on the FEVER dataset. The augmentation strategies are based on WSD (Word Sense Disambiguation) and SRL (Semantic Role Labeling) informations provided with the dataset.
 
-
-##############
-# Experience #
-##############
-
-  - title: Experience
-    layout: list
-    content:
-
+      # noisy-graph-classification
       - layout: left
-        title: Research Experience
-        sub_title: ALCOR Lab, DIAG, Sapienza Università di Roma
-        caption: June 2024 - February 2025
+        title: Noisy Graph Classification
+        caption: July 2024
+        link: https://github.com/MatteoPannacci/noisy-graph-classification
+        link_text: Github repository
         description: |
-          Research collaboration with the ALCOR Lab at the Department of Computer, Control, and Management Engineering (DIAG) of Sapienza University of Rome, conducted during my master's degree. The work focused on improving ground-to-aerial image matching techniques using semantic segmentation to enhance alignment and comparison of images from different viewpoints.
-
-          This collaboration led to the publication of the paper "Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation" of which I'm a co-first author.
-
+          Implementation of an ensemble of GINs (Graph Isomorphism Network) with Pytorch Geometric for Graph Classification in presence of noise.
 
 
 #content:
@@ -232,7 +240,6 @@ content:
 #      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 #
 #      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
 
 
 # Footer
