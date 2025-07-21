@@ -200,6 +200,7 @@ content:
       # fever-nli-augmentation
       - layout: left
         title: NLI-style FEVER Augmentation
+        border: weak
         caption: July 2024
         link: https://github.com/MatteoPannacci/fever-nli-augmentation
         link_text: Github repository
@@ -208,7 +209,6 @@ content:
 
       # noisy-graph-classification
       - layout: left
-        border: weak
         title: Noisy Graph Classification
         caption: July 2024
         link: https://github.com/MatteoPannacci/noisy-graph-classification
