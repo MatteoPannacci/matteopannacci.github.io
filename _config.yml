@@ -207,10 +207,22 @@ content:
         description: |
           Implementation of augmentation strategies and trasformer-based models for NLI (Natural Language Inference) on the FEVER dataset. The augmentation strategies are based on WSD (Word Sense Disambiguation) and SRL (Semantic Role Labeling) informations provided with the dataset.
 
+      # 2D-to-3D-Style-Transfer
+      - layout: left
+        title: 2D to 3D Style Transfer
+        border: weak
+        caption: January 2025
+        link: https://github.com/EmaMule/2D-to-3D-Style-Transfer
+        link_text: Github repository
+        description: |
+          Implementation of two methods to transfer the style of a 2D image onto a 3D object using differentiable rendering. 
+          The first method stylizes multiple 2D views of the 3D object and uses them as optimization targets for texture and mesh updates. 
+          The second method directly computes content and style losses on the rendered images and backpropagates the gradients to the 3D parameters. 
+
       # noisy-graph-classification
       - layout: left
         title: Noisy Graph Classification
-        caption: July 2024
+        caption: May 2025
         link: https://github.com/MatteoPannacci/noisy-graph-classification
         link_text: Github repository
         description: |
