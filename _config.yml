@@ -156,10 +156,20 @@ content:
     layout: list
     content:
 
+      # noisy-graph-classification
+      - layout: left
+        title: Noisy Graph Classification
+        border: weak
+        caption: May 2025
+        link: https://github.com/MatteoPannacci/noisy-graph-classification
+        link_text: Github repository
+        description: |
+          Implementation of an ensemble of GINs (Graph Isomorphism Network) using Pytorch Geometric for a Graph Classification task on a Protein-Protein Association (PPA) dataset in presence of noise. The models of the ensembles are trained on different bootstraps of the original dataset using a noise-robust loss and regularization techniques.
+
       # machiavelli-planning
       - layout: left
-        border: weak
         title: Machiavelli Planning
+        border: weak
         caption: January 2025
         link: https://github.com/MatteoPannacci/machiavelli-planning
         link_text: Github repository
@@ -167,35 +177,37 @@ content:
           Implementation in PDDL and IndiGolog of a planning task from the italian card game Machiavelli. 
           We take into consideration a single turn of a player during the course of the game. The goal is to check whether it's possible for the player to win from the current configuration (board state and player's hand) and, in the positive case, to find a sequence of legal actions that do so. 
 
-      # rdfs-in-neo4j
+      # 2D-to-3D-Style-Transfer
       - layout: left
+        title: 2D to 3D Style Transfer
         border: weak
-        title: RDFS in Neo4J
-        caption: May 2024
-        link: https://github.com/MatteoPannacci/rdfs-in-neo4j
+        caption: January 2025
+        link: https://github.com/EmaMule/2D-to-3D-Style-Transfer
         link_text: Github repository
         description: |
-          Implementation in Python of 2 class structures representing RDFS-based Knowledge Graphs. The first version uses a Neo4J Session to perform updates, syntax check and deduction directly on the graph through queries in Cypher. The second version performs these operations in Python and is able to interact with a Neo4J Session for importing/exporting Knowledge Graphs.
-
-      # rp-simple-planner
-      - layout: left
-        border: weak
-        title: ROS Simple Planner
-        caption: September 2024
-        link: https://github.com/MatteoPannacci/rp-simple-planner
-        link_text: Github repository
-        description: |
-          Implementation of a simple 2D trajectory planner for ROS in C++. The code provides a node that listens to the required informations (current position, map structure and goal position), then it uses these informations to build the trajectory planning problem and solves it applying the A* algorithm. The resulting path is then visualized using OpenCV.
+          Implementation of two methods to transfer the style of a 2D image onto a 3D object using differentiable rendering.
+          The first method stylizes multiple 2D views of the 3D object and uses them as optimization targets for texture and mesh updates.
+          The second method directly computes content and style losses on the rendered images and backpropagates the gradients to the 3D parameters.
 
       # Multi-Family-Co-Evolutionary-RL
       - layout: left
-        border: weak
         title: Multi-Family Co-Evolutionary Approach for MARL
+        border: weak
         caption: December 2024
         link: https://github.com/EmaMule/Multi-Family-Co-Evolutionary-RL
         link_text: Github repository
         description: |
           Implementation of ES (Evolutive Strategy) and GA (Genetic Algorithm) using multiple independent populations in the context of Multi-Agent Reinforcement Learning to train neural networks (Neuro-Evolution). The agents learn to play classic games from the PettingZoo library including Connect Four and TicTacToe by having the populations compete against each other.
+
+      # rp-simple-planner
+      - layout: left
+        title: ROS Simple Planner
+        border: weak
+        caption: September 2024
+        link: https://github.com/MatteoPannacci/rp-simple-planner
+        link_text: Github repository
+        description: |
+          Implementation of a simple 2D trajectory planner for ROS in C++. The code provides a node that listens to the required informations (current position, map structure and goal position), then it uses these informations to build the trajectory planning problem and solves it applying the A* algorithm. The resulting path is then visualized using OpenCV.
 
       # fever-nli-augmentation
       - layout: left
@@ -207,26 +219,14 @@ content:
         description: |
           Implementation of augmentation strategies and trasformer-based models for NLI (Natural Language Inference) on the FEVER dataset. The augmentation strategies are based on WSD (Word Sense Disambiguation) and SRL (Semantic Role Labeling) informations provided with the dataset.
 
-      # 2D-to-3D-Style-Transfer
+      # rdfs-in-neo4j
       - layout: left
-        title: 2D to 3D Style Transfer
-        border: weak
-        caption: January 2025
-        link: https://github.com/EmaMule/2D-to-3D-Style-Transfer
+        title: RDFS in Neo4J
+        caption: May 2024
+        link: https://github.com/MatteoPannacci/rdfs-in-neo4j
         link_text: Github repository
         description: |
-          Implementation of two methods to transfer the style of a 2D image onto a 3D object using differentiable rendering. 
-          The first method stylizes multiple 2D views of the 3D object and uses them as optimization targets for texture and mesh updates. 
-          The second method directly computes content and style losses on the rendered images and backpropagates the gradients to the 3D parameters. 
-
-      # noisy-graph-classification
-      - layout: left
-        title: Noisy Graph Classification
-        caption: May 2025
-        link: https://github.com/MatteoPannacci/noisy-graph-classification
-        link_text: Github repository
-        description: |
-          Implementation of an ensemble of GINs (Graph Isomorphism Network) using Pytorch Geometric for a Graph Classification task on a Protein-Protein Association (PPA) dataset in presence of noise. The models of the ensembles are trained on different bootstraps of the original dataset using a noise-robust loss and regularization techniques.
+          Implementation in Python of 2 class structures representing RDFS-based Knowledge Graphs. The first version uses a Neo4J Session to perform updates, syntax check and deduction directly on the graph through queries in Cypher. The second version performs these operations in Python and is able to interact with a Neo4J Session for importing/exporting Knowledge Graphs.
 
 
 #content:
