@@ -216,6 +216,9 @@ content:
         caption: July 2024
         link: https://github.com/MatteoPannacci/fever-nli-augmentation
         link_text: Github repository
+        additional_links:
+          title: Dataset
+          url: https://huggingface.co/datasets/Matteo-Pannacci/mnlp_adversarial_train_set
         description: |
           Implementation of augmentation strategies and trasformer-based models for NLI (Natural Language Inference) on the FEVER dataset. The augmentation strategies are based on WSD (Word Sense Disambiguation) and SRL (Semantic Role Labeling) informations provided with the dataset.
 
