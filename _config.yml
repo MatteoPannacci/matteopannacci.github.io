@@ -74,7 +74,7 @@ content:
         caption: 2023 - 2025
         sub_title: Sapienza Università di Roma
         description: |
-          Final Grade: 110 / 110 cum laude
+          Final Grade: 110 / 110 cum laude and honours
 
           Final GPA: 30/30
 
@@ -93,7 +93,7 @@ content:
       # bachelor's degree
       - layout: left
         border: weak
-        title: B.Sc. Computer and Control Engineering (L-8)
+        title: B.Sc. Computer and Control Engineering  ‎   ‎  (L-8)
         caption: 2020 - 2023
         sub_title: Sapienza Università di Roma
         description: |
