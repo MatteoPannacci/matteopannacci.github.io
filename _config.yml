@@ -79,7 +79,7 @@ content:
           Final GPA: 30/30
 
           ---
-          
+
           Best student of the course according to Sapienza "Exam Bonus" award.
 
           Recipient of Sapienza "Outstanding Students" merits.
@@ -223,7 +223,7 @@ content:
         description: |
           Implementation of augmentation strategies and trasformer-based models for NLI (Natural Language Inference) on the FEVER dataset. The augmentation strategies are based on WSD (Word Sense Disambiguation) and SRL (Semantic Role Labeling) informations provided with the dataset.
 
-          The resulting augmented dataset is available <a href="https://huggingface.co/datasets/Matteo-Pannacci/mnlp_adversarial_train_set" target="_blank">here</a>
+          The resulting augmented dataset is available <a href="https://huggingface.co/datasets/Matteo-Pannacci/mnlp_adversarial_train_set" target="_blank">here</a>.
 
       # rdfs-in-neo4j
       - layout: left
