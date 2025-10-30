@@ -70,7 +70,7 @@ content:
       # master's degree
       - layout: left
         border: weak
-        title: M.Sc. AI and Robotics
+        title: M.Sc. Artificial Intelligence and Robotics (LM-32)
         caption: 2023 - 2025
         sub_title: Sapienza Università di Roma
         description: |
@@ -93,7 +93,7 @@ content:
       # bachelor's degree
       - layout: left
         border: weak
-        title: B.Sc. Computer and System Engineering
+        title: B.Sc. Computer and Control Engineering (L-8)
         caption: 2020 - 2023
         sub_title: Sapienza Università di Roma
         description: |
