@@ -130,6 +130,16 @@ content:
     layout: list
     content:
 
+      # self-employment contract
+      - layout: left
+        title: Self-Employment Contract
+        sub_title: Sapienza Università di Roma
+        border: weak
+        caption: September 2025 - November 2025
+        description: |
+          Developed a software tool to streamline study-plan creation and cross-university exam recognition, in coordination with the program's academic and administrative staff.
+
+      # research experience ALCOR
       - layout: left
         title: Research Experience
         sub_title: ALCOR Lab, DIAG, Sapienza Università di Roma
