@@ -245,6 +245,32 @@ content:
           Implementation in Python of 2 class structures representing RDFS-based Knowledge Graphs. The first version uses a Neo4J Session to perform updates, syntax check and deduction directly on the graph through queries in Cypher. The second version performs these operations in Python and is able to interact with a Neo4J Session for importing/exporting Knowledge Graphs.
 
 
+#####################
+# Honors and Awards #
+#####################
+
+  - title: Honors and Awards
+    layout: list
+    content:
+
+      # AI Talent Week 2025
+      - layout: left
+        title: 1st Place - AI Talent Week 2025
+        border: weak
+        caption: December 2025
+        description: |
+          ???
+
+      # Generative AI Safety
+      - layout: left
+        title: 1st Place Team - Sapienza Challenge on Generative AI Safety (Attack on Model)
+        border: weak
+        caption: April 2025
+        description: |
+          ???
+
+
+
 #content:
 #  - title: Section Name
 #    layout: list (options: list, text)
