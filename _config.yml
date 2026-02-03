@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Matteo Pannacci
-title: MSc in Artificial Intelligence and Robotics at Sapienza Università di Roma
+title: Software Engineer @ Prima | MSc in AI and Robotics @ Sapienza Università di Roma
 email: matteo.pannacci@gmail.com
 website: matteopannacci.github.io
 
@@ -57,6 +57,42 @@ about_content: |
 
 
 content:
+
+
+##############
+# Experience #
+##############
+
+  - title: Experience
+    layout: list
+    content:
+
+      # prima
+      - layout: left
+        title: Software Engineer
+        sub_title: Prima
+        border: weak
+        caption: February 2026 - Present
+        description:
+
+      # self-employment contract
+      - layout: left
+        title: Self-Employment Contract
+        sub_title: Sapienza Università di Roma
+        border: weak
+        caption: September 2025 - November 2025
+        description: |
+          Developed a software tool to streamline study-plan creation and cross-university exam recognition, in coordination with the program's academic and administrative staff.
+
+      # research experience ALCOR
+      - layout: left
+        title: Research Experience
+        sub_title: ALCOR Lab, DIAG, Sapienza Università di Roma
+        caption: June 2024 - February 2025
+        description: |
+          Research collaboration with the ALCOR Lab at the Department of Computer, Control, and Management Engineering (DIAG) of Sapienza University of Rome, conducted during my master's degree. The work focused on improving ground-to-aerial image matching techniques using semantic segmentation to enhance alignment and comparison of images from different viewpoints.
+
+          This collaboration led to the publication of the paper "Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation" of which I'm a co-first author and which was submitted and accepted at the 2025 IEEE/CVF Winter Conference on Applications of Computer Vision in the workshop on Artificial Intelligence for Multimedia Forensics and Disinformation Detection.
 
 
   #############
@@ -120,34 +156,6 @@ content:
           Throughout high school, I participated in various student competitions in Math, Physics, Biology, Chemistry, and Computer Science at school, regional, and national levels, both individually and as a team leader.
 
           During my fourth year of high school, I was selected for and attended the "Scuola Estiva Nazionale per Studenti sulla Fisica Moderna 2019" (SENS-FM2019), which took place at the University of Udine.
-
-
-##############
-# Experience #
-##############
-
-  - title: Experience
-    layout: list
-    content:
-
-      # self-employment contract
-      - layout: left
-        title: Self-Employment Contract
-        sub_title: Sapienza Università di Roma
-        border: weak
-        caption: September 2025 - November 2025
-        description: |
-          Developed a software tool to streamline study-plan creation and cross-university exam recognition, in coordination with the program's academic and administrative staff.
-
-      # research experience ALCOR
-      - layout: left
-        title: Research Experience
-        sub_title: ALCOR Lab, DIAG, Sapienza Università di Roma
-        caption: June 2024 - February 2025
-        description: |
-          Research collaboration with the ALCOR Lab at the Department of Computer, Control, and Management Engineering (DIAG) of Sapienza University of Rome, conducted during my master's degree. The work focused on improving ground-to-aerial image matching techniques using semantic segmentation to enhance alignment and comparison of images from different viewpoints.
-
-          This collaboration led to the publication of the paper "Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation" of which I'm a co-first author and which was submitted and accepted at the 2025 IEEE/CVF Winter Conference on Applications of Computer Vision in the workshop on Artificial Intelligence for Multimedia Forensics and Disinformation Detection.
 
 
 ################
